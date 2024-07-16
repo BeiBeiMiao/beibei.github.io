@@ -135,7 +135,7 @@ p {
   padding: 0 32px;
   font-size: 16px;
   line-height: 46px;
-  color: #0067f4;
+  color: #55b7e7;
   cursor: pointer;
   z-index: 5;
   -webkit-transition: all 0.4s ease-out 0s;
@@ -162,24 +162,24 @@ p {
   .standard-buttons ul li:first-child {
     margin-left: 0; }
 .standard-buttons .standard-one {
-  border-color: #0067f4; }
+  border-color: #55b7e7; }
   .standard-buttons .standard-one:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
 .standard-buttons .standard-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4; }
+  background-color: #55b7e7;
+  border-color: #55b7e7; }
   .standard-buttons .standard-two:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
 .standard-buttons .standard-three {
   overflow: hidden;
   line-height: 50px;
   color: #fff;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   border: 0;
   line-height: 52px;
   background-size: 200% auto; }
@@ -192,7 +192,7 @@ p {
   .standard-buttons .standard-three:hover {
     background-position: right center; }
 .standard-buttons .standard-four {
-  border-color: #0067f4;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .standard-buttons .standard-four {
@@ -213,13 +213,13 @@ p {
         left: 15px; } }
   .standard-buttons .standard-four:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .standard-buttons .standard-four:hover i {
       animation: iconTranslateY 0.5s forwards; }
 .standard-buttons .standard-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #55b7e7;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .standard-buttons .standard-five {
@@ -239,7 +239,7 @@ p {
       .standard-buttons .standard-five span {
         left: 15px; } }
   .standard-buttons .standard-five:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
     .standard-buttons .standard-five:hover i {
       animation: iconTranslateY 0.5s forwards; }
@@ -248,9 +248,9 @@ p {
   overflow: hidden;
   line-height: 50px;
   color: #fff;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   border: 0;
   line-height: 52px;
   background-size: 200% auto; }
@@ -296,24 +296,24 @@ p {
 .light-rounded-buttons .main-btn {
   border-radius: 5px; }
 .light-rounded-buttons .light-rounded-one {
-  border-color: #0067f4; }
+  border-color: #55b7e7; }
   .light-rounded-buttons .light-rounded-one:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
 .light-rounded-buttons .light-rounded-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4; }
+  background-color: #55b7e7;
+  border-color: #55b7e7; }
   .light-rounded-buttons .light-rounded-two:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
 .light-rounded-buttons .light-rounded-three {
   overflow: hidden;
   line-height: 50px;
   color: #fff;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   line-height: 52px;
   border: 0; }
@@ -326,7 +326,7 @@ p {
   .light-rounded-buttons .light-rounded-three:hover {
     background-position: right center; }
 .light-rounded-buttons .light-rounded-four {
-  border-color: #0067f4;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .light-rounded-buttons .light-rounded-four {
@@ -347,7 +347,7 @@ p {
         left: 15px; } }
   .light-rounded-buttons .light-rounded-four:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .light-rounded-buttons .light-rounded-four:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
       -moz-animation: iconTranslateY 0.5s forwards;
@@ -355,8 +355,8 @@ p {
       animation: iconTranslateY 0.5s forwards; }
 .light-rounded-buttons .light-rounded-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #55b7e7;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .light-rounded-buttons .light-rounded-five {
@@ -376,7 +376,7 @@ p {
       .light-rounded-buttons .light-rounded-five span {
         left: 15px; } }
   .light-rounded-buttons .light-rounded-five:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
     .light-rounded-buttons .light-rounded-five:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
@@ -388,9 +388,9 @@ p {
   overflow: hidden;
   line-height: 50px;
   color: #fff;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   line-height: 52px;
   border: 0; }
@@ -436,23 +436,23 @@ p {
 .semi-rounded-buttons .main-btn {
   border-radius: 10px; }
 .semi-rounded-buttons .semi-rounded-one {
-  border-color: #0067f4; }
+  border-color: #55b7e7; }
   .semi-rounded-buttons .semi-rounded-one:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
 .semi-rounded-buttons .semi-rounded-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4; }
+  background-color: #55b7e7;
+  border-color: #55b7e7; }
   .semi-rounded-buttons .semi-rounded-two:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
 .semi-rounded-buttons .semi-rounded-three {
   overflow: hidden;
   line-height: 52px;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   border: 0;
   color: #fff; }
@@ -465,7 +465,7 @@ p {
   .semi-rounded-buttons .semi-rounded-three:hover {
     background-position: right center; }
 .semi-rounded-buttons .semi-rounded-four {
-  border-color: #0067f4;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .semi-rounded-buttons .semi-rounded-four {
@@ -486,7 +486,7 @@ p {
         left: 15px; } }
   .semi-rounded-buttons .semi-rounded-four:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .semi-rounded-buttons .semi-rounded-four:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
       -moz-animation: iconTranslateY 0.5s forwards;
@@ -494,8 +494,8 @@ p {
       animation: iconTranslateY 0.5s forwards; }
 .semi-rounded-buttons .semi-rounded-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #55b7e7;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .semi-rounded-buttons .semi-rounded-five {
@@ -515,7 +515,7 @@ p {
       .semi-rounded-buttons .semi-rounded-five span {
         left: 15px; } }
   .semi-rounded-buttons .semi-rounded-five:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
     .semi-rounded-buttons .semi-rounded-five:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
@@ -526,9 +526,9 @@ p {
   padding-right: 60px;
   overflow: hidden;
   line-height: 52px;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   border: 0;
   color: #fff; }
@@ -574,23 +574,23 @@ p {
 .rounded-buttons .main-btn {
   border-radius: 50px; }
 .rounded-buttons .rounded-one {
-  border-color: #0067f4; }
+  border-color: #55b7e7; }
   .rounded-buttons .rounded-one:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
 .rounded-buttons .rounded-two {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4; }
+  background-color: #55b7e7;
+  border-color: #55b7e7; }
   .rounded-buttons .rounded-two:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
 .rounded-buttons .rounded-three {
   overflow: hidden;
   line-height: 52px;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   color: #fff;
   border: 0; }
@@ -603,7 +603,7 @@ p {
   .rounded-buttons .rounded-three:hover {
     background-position: right center; }
 .rounded-buttons .rounded-four {
-  border-color: #0067f4;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .rounded-buttons .rounded-four {
@@ -624,7 +624,7 @@ p {
         left: 15px; } }
   .rounded-buttons .rounded-four:hover {
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .rounded-buttons .rounded-four:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
       -moz-animation: iconTranslateY 0.5s forwards;
@@ -632,8 +632,8 @@ p {
       animation: iconTranslateY 0.5s forwards; }
 .rounded-buttons .rounded-five {
   color: #fff;
-  background-color: #0067f4;
-  border-color: #0067f4;
+  background-color: #55b7e7;
+  border-color: #55b7e7;
   padding-left: 60px; }
   @media (max-width: 767px) {
     .rounded-buttons .rounded-five {
@@ -653,7 +653,7 @@ p {
       .rounded-buttons .rounded-five span {
         left: 15px; } }
   .rounded-buttons .rounded-five:hover {
-    color: #0067f4;
+    color: #55b7e7;
     background-color: transparent; }
     .rounded-buttons .rounded-five:hover i {
       -webkit-animation: iconTranslateY 0.5s forwards;
@@ -664,9 +664,9 @@ p {
   padding-right: 60px;
   overflow: hidden;
   line-height: 52px;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   color: #fff;
   border: 0; }
@@ -1319,7 +1319,7 @@ p {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     -webkit-transition: all 0.3s ease-out 0s;
@@ -1328,15 +1328,15 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     overflow: hidden;
-    color: #0067f4; }
+    color: #55b7e7; }
     .regular-icon-buttons ul li .regular-icon-light-one:hover {
       color: #fff;
-      background-color: #0067f4; }
+      background-color: #55b7e7; }
   .regular-icon-buttons ul li .regular-icon-light-two {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     border-radius: 5px;
@@ -1346,15 +1346,15 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     overflow: hidden;
-    color: #0067f4; }
+    color: #55b7e7; }
     .regular-icon-buttons ul li .regular-icon-light-two:hover {
       color: #fff;
-      background-color: #0067f4; }
+      background-color: #55b7e7; }
   .regular-icon-buttons ul li .regular-icon-light-three {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     border-radius: 10px;
@@ -1364,15 +1364,15 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     overflow: hidden;
-    color: #0067f4; }
+    color: #55b7e7; }
     .regular-icon-buttons ul li .regular-icon-light-three:hover {
       color: #fff;
-      background-color: #0067f4; }
+      background-color: #55b7e7; }
   .regular-icon-buttons ul li .regular-icon-light-four {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     border-radius: 50%;
@@ -1384,7 +1384,7 @@ p {
     overflow: hidden; }
     .regular-icon-buttons ul li .regular-icon-light-four:hover {
       color: #fff;
-      background-color: #0067f4; }
+      background-color: #55b7e7; }
   .regular-icon-buttons ul li .regular-icon-light-five {
     width: 40px;
     height: 40px;
@@ -1401,9 +1401,9 @@ p {
     z-index: 5;
     overflow: hidden;
     color: #fff;
-    background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+    background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
     background-size: 200% auto; }
     .regular-icon-buttons ul li .regular-icon-light-five:hover {
       background-position: right center; }
@@ -1423,9 +1423,9 @@ p {
     z-index: 5;
     overflow: hidden;
     color: #fff;
-    background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+    background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
     background-size: 200% auto;
     border-radius: 5px; }
     .regular-icon-buttons ul li .regular-icon-light-six:hover {
@@ -1446,9 +1446,9 @@ p {
     z-index: 5;
     overflow: hidden;
     color: #fff;
-    background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+    background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
     background-size: 200% auto;
     border-radius: 10px; }
     .regular-icon-buttons ul li .regular-icon-light-seven:hover {
@@ -1469,9 +1469,9 @@ p {
     z-index: 5;
     overflow: hidden;
     color: #fff;
-    background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-    background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+    background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+    background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
     background-size: 200% auto;
     border-radius: 50%; }
     .regular-icon-buttons ul li .regular-icon-light-eight:hover {
@@ -1480,7 +1480,7 @@ p {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     -webkit-transition: all 0.3s ease-out 0s;
@@ -1490,15 +1490,15 @@ p {
     transition: all 0.3s ease-out 0s;
     overflow: hidden;
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .regular-icon-buttons ul li .regular-icon-light-nine:hover {
-      color: #0067f4;
+      color: #55b7e7;
       background-color: transparent; }
   .regular-icon-buttons ul li .regular-icon-light-ten {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     border-radius: 5px;
@@ -1509,15 +1509,15 @@ p {
     transition: all 0.3s ease-out 0s;
     overflow: hidden;
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .regular-icon-buttons ul li .regular-icon-light-ten:hover {
-      color: #0067f4;
+      color: #55b7e7;
       background-color: transparent; }
   .regular-icon-buttons ul li .regular-icon-light-eleven {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     border-radius: 10px;
@@ -1528,15 +1528,15 @@ p {
     transition: all 0.3s ease-out 0s;
     overflow: hidden;
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .regular-icon-buttons ul li .regular-icon-light-eleven:hover {
-      color: #0067f4;
+      color: #55b7e7;
       background-color: transparent; }
   .regular-icon-buttons ul li .regular-icon-light-twelve {
     width: 40px;
     height: 40px;
     line-height: 36px;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     text-align: center;
     font-size: 24px;
     border-radius: 50%;
@@ -1547,9 +1547,9 @@ p {
     transition: all 0.3s ease-out 0s;
     overflow: hidden;
     color: #fff;
-    background-color: #0067f4; }
+    background-color: #55b7e7; }
     .regular-icon-buttons ul li .regular-icon-light-twelve:hover {
-      color: #0067f4;
+      color: #55b7e7;
       background-color: transparent; }
 
 /*===== Group Buttons =====*/
@@ -1559,7 +1559,7 @@ p {
   margin-left: 0; }
   .group-buttons .group-one .main-btn {
     background: none;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
@@ -1574,7 +1574,7 @@ p {
       border-bottom-right-radius: 5px;
       border-left: 0; }
     .group-buttons .group-one .main-btn:hover {
-      background-color: #0067f4;
+      background-color: #55b7e7;
       color: #fff; }
 .group-buttons .group-two .main-btn {
   background: none;
@@ -1586,9 +1586,9 @@ p {
   overflow: hidden;
   color: #fff;
   line-height: 52px;
-  background: -webkit-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(#55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(#55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(#55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: auto 200%;
   border-top: 0;
   border-bottom: 0;
@@ -1613,9 +1613,9 @@ p {
   overflow: hidden;
   color: #fff;
   line-height: 52px;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   border: 0; }
   .group-buttons .group-three .main-btn:first-child {
@@ -1632,7 +1632,7 @@ p {
   margin-left: 0; }
   .group-buttons .group-four .main-btn {
     background: none;
-    border: 2px solid #0067f4;
+    border: 2px solid #55b7e7;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
@@ -1650,7 +1650,7 @@ p {
       border-bottom-right-radius: 5px;
       border-left: 0; }
     .group-buttons .group-four .main-btn:hover {
-      background-color: #0067f4;
+      background-color: #55b7e7;
       color: #fff; }
 .group-buttons .group-five .main-btn {
   background: none;
@@ -1662,9 +1662,9 @@ p {
   overflow: hidden;
   color: #fff;
   line-height: 52px;
-  background: -webkit-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(#0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(#55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(#55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(#55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: auto 200%;
   border-top: 0;
   border-bottom: 0;
@@ -1690,9 +1690,9 @@ p {
   overflow: hidden;
   color: #fff;
   line-height: 52px;
-  background: -webkit-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: -o-linear-gradient(left, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
-  background: linear-gradient(to right, #0067f4 0%, #2bdbdc 50%, #0067f4 100%);
+  background: -webkit-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: -o-linear-gradient(left, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
+  background: linear-gradient(to right, #55b7e7 0%, #2bdbdc 50%, #55b7e7 100%);
   background-size: 200% auto;
   border: 0;
   padding: 0 16px; }
@@ -1820,7 +1820,7 @@ p {
           content: '';
           width: 8px;
           height: 4px;
-          background-color: #0067f4;
+          background-color: #55b7e7;
           left: 50%;
           margin: 0 2px;
           bottom: 14px;
@@ -1840,7 +1840,7 @@ p {
           left: auto;
           right: 50%; }
       .navgition .navbar .navbar-nav .nav-item.active > a, .navgition .navbar .navbar-nav .nav-item:hover > a {
-        color: #0067f4; }
+        color: #55b7e7; }
         .navgition .navbar .navbar-nav .nav-item.active > a::before, .navgition .navbar .navbar-nav .nav-item.active > a::after, .navgition .navbar .navbar-nav .nav-item:hover > a::before, .navgition .navbar .navbar-nav .nav-item:hover > a::after {
           opacity: 1; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -1874,7 +1874,7 @@ p {
         -o-transition: all 0.3s ease-out 0s;
         transition: all 0.3s ease-out 0s; }
         .navgition .navbar .navbar-social ul li a:hover {
-          color: #0067f4; }
+          color: #55b7e7; }
 
 .header-hero {
   height: 850px;
@@ -1945,7 +1945,7 @@ p {
               -webkit-box-shadow: 0 3px 25px 0 rgba(0, 0, 0, 0.16);
               -moz-box-shadow: 0 3px 25px 0 rgba(0, 0, 0, 0.16);
               box-shadow: 0 3px 25px 0 rgba(0, 0, 0, 0.16);
-              color: #0067f4; }
+              color: #55b7e7; }
   .header-hero .header-shape {
     position: absolute;
     bottom: 0;
@@ -1972,7 +1972,7 @@ p {
 
 .services-content .services-icon i {
   font-size: 64px;
-  color: #0067f4; }
+  color: #55b7e7; }
 .services-content .services-content {
   padding-left: 15px; }
   @media (max-width: 767px) {
@@ -2121,15 +2121,15 @@ p {
           font-size: 16px;
           margin-top: 16px; } }
       .single-pricing .pricing-list ul li i {
-        color: #0067f4;
+        color: #55b7e7;
         margin-right: 8px; }
   .single-pricing .pricing-btn {
     margin-top: 42px; }
     .single-pricing .pricing-btn .main-btn {
-      background-color: #0067f4;
+      background-color: #55b7e7;
       border-radius: 50px;
       color: #fff;
-      border-color: #0067f4; }
+      border-color: #55b7e7; }
       .single-pricing .pricing-btn .main-btn:hover {
         background-color: #005ad5;
         border-color: #005ad5; }
@@ -2142,7 +2142,7 @@ p {
 .single-pricing.pro .pricing-header .sub-title::before {
   right: auto;
   left: 0;
-  background-color: #0067f4; }
+  background-color: #55b7e7; }
 .single-pricing.pro .pricing-baloon {
   position: absolute;
   top: 0;
@@ -2152,7 +2152,7 @@ p {
 .single-pricing.enterprise .pricing-header .sub-title::before {
   right: 0;
   left: auto;
-  background-color: #0067f4; }
+  background-color: #55b7e7; }
 .single-pricing.enterprise .pricing-flower {
   position: absolute;
   top: 10px;
@@ -2174,7 +2174,7 @@ p {
     5.CALL TO ACTION css 
 ===========================*/
 .call-to-action {
-  background-color: #0067f4;
+  background-color: #55b7e7;
   position: relative; }
 
 .call-action-image {
@@ -2229,7 +2229,7 @@ p {
     margin: 24px auto 0; }
     .call-action-content .call-newsletter i {
       font-size: 26px;
-      color: #0067f4;
+      color: #55b7e7;
       position: absolute;
       left: 18px;
       top: 15px; }
@@ -2266,7 +2266,7 @@ p {
       position: absolute;
       top: 4px;
       right: 4px;
-      background-color: #0067f4;
+      background-color: #55b7e7;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
@@ -2278,7 +2278,7 @@ p {
           right: auto;
           margin-top: 15px;
           background-color: #fff;
-          color: #0067f4; } }
+          color: #55b7e7; } }
       .call-action-content .call-newsletter button:hover {
         background-color: #005ad5;
         color: #fff; }
@@ -2340,7 +2340,7 @@ p {
       border: 0;
       cursor: pointer; }
     .testimonial-active .slick-dots li.slick-active button {
-      background-color: #0067f4; }
+      background-color: #55b7e7; }
 
 /*===========================
        25.CLIENT css 
@@ -2408,7 +2408,7 @@ p.form-message.error {
     resize: none; }
   .contact-form .single-form .main-btn {
     border-radius: 50px;
-    background-color: #0067f4;
+    background-color: #55b7e7;
     color: #fff; }
     .contact-form .single-form .main-btn:hover {
       background-color: #005ad5; }
@@ -2451,7 +2451,7 @@ p.form-message.error {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
       .footer-logo-support .footer-logo .social li a:hover {
-        color: #0067f4; }
+        color: #55b7e7; }
 .footer-logo-support .footer-support span {
   font-size: 20px;
   line-height: 25px;
@@ -2488,7 +2488,7 @@ p.form-message.error {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
       .footer-link ul li a:hover {
-        color: #0067f4; }
+        color: #55b7e7; }
 
 .footer-newsletter {
   margin-top: 32px; }
@@ -2546,7 +2546,7 @@ p.form-message.error {
   line-height: 50px;
   border-radius: 50%;
   text-align: center;
-  background-color: #0067f4;
+  background-color: #55b7e7;
   bottom: 10px;
   right: 20px;
   z-index: 999;
